@@ -34,9 +34,9 @@ Sou desenvolvedor web com mais de 8 anos de experiência em criação e manuten�
 - Otimização de aplicações e fluxos de trabalho para times de desenvolvimento.
 
 ### 📫 Como entrar em contato comigo:
-- **E-mail:** [seu email aqui]  
-- **LinkedIn:** [seu perfil aqui]  
-- **GitHub:** [seu perfil aqui]  
+- **E-mail:** hiagodeoliveiratv@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/hiagofullstack/
+- **Behance:** https://www.behance.net/hiagofulltasck  
 
 ### 😄 Pronomes:
 - Ele/Dele (He/Him)
